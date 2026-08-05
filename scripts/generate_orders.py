@@ -3,16 +3,12 @@ import random
 import pandas as pd
 from datetime import datetime, timedelta
 
-# ------------------------------------------
-# Configuration
-# ------------------------------------------
+
 
 NUM_ORDERS = 10000
 OUTPUT_PATH = "datasets/raw/orders.csv"
 
-# ------------------------------------------
-# Read Required Datasets
-# ------------------------------------------
+
 
 customers = pd.read_csv("datasets/raw/customers.csv")
 products = pd.read_csv("datasets/raw/products.csv")
@@ -34,9 +30,7 @@ payment_methods = [
 
 orders = []
 
-# ------------------------------------------
-# Generate Orders
-# ------------------------------------------
+
 
 for i in range(1, NUM_ORDERS + 1):
 
@@ -74,9 +68,7 @@ for i in range(1, NUM_ORDERS + 1):
         "order_date": order_date
     })
 
-# ------------------------------------------
-# Save CSV
-# ------------------------------------------
+
 
 df = pd.DataFrame(orders)
 

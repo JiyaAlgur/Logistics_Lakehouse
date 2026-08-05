@@ -2,16 +2,12 @@ import os
 import random
 import pandas as pd
 
-# ------------------------------------------
-# Configuration
-# ------------------------------------------
+
 
 NUM_PRODUCTS = 200
 OUTPUT_PATH = "datasets/raw/products.csv"
 
-# ------------------------------------------
-# Product Catalog
-# ------------------------------------------
+
 
 product_catalog = [
     ("Coca Cola", "Beverages", "Coca Cola"),
@@ -78,9 +74,7 @@ sizes = [
 
 products = []
 
-# ------------------------------------------
-# Generate Products
-# ------------------------------------------
+
 
 for i in range(1, NUM_PRODUCTS + 1):
 
@@ -105,9 +99,7 @@ for i in range(1, NUM_PRODUCTS + 1):
         "selling_price": selling_price
 })
 
-# ------------------------------------------
-# Create DataFrame
-# ------------------------------------------
+
 
 df = pd.DataFrame(products)
 

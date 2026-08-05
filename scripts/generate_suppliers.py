@@ -2,16 +2,12 @@ import os
 import random
 import pandas as pd
 
-# ------------------------------------------
-# Configuration
-# ------------------------------------------
+
 
 NUM_SUPPLIERS = 50
 OUTPUT_PATH = "datasets/raw/suppliers.csv"
 
-# ------------------------------------------
-# Supplier Names
-# ------------------------------------------
+
 
 supplier_names = [
     "ABC Distributors",
@@ -56,9 +52,7 @@ locations = [
 
 suppliers = []
 
-# ------------------------------------------
-# Generate Suppliers
-# ------------------------------------------
+
 
 for i in range(1, NUM_SUPPLIERS + 1):
 
@@ -73,9 +67,6 @@ for i in range(1, NUM_SUPPLIERS + 1):
 
     suppliers.append(supplier)
 
-# ------------------------------------------
-# Save CSV
-# ------------------------------------------
 
 df = pd.DataFrame(suppliers)
 

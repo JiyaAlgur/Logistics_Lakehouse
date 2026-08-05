@@ -2,16 +2,12 @@ import os
 import random
 import pandas as pd
 
-# ------------------------------------------
-# Configuration
-# ------------------------------------------
+
 
 NUM_WAREHOUSES = 20
 OUTPUT_PATH = "datasets/raw/warehouses.csv"
 
-# ------------------------------------------
-# Warehouse Locations
-# ------------------------------------------
+
 
 locations = [
     ("Bangalore", "Karnataka"),
@@ -40,9 +36,7 @@ warehouse_types = [
 
 warehouses = []
 
-# ------------------------------------------
-# Generate Warehouses
-# ------------------------------------------
+
 
 for i in range(1, NUM_WAREHOUSES + 1):
 
@@ -57,9 +51,7 @@ for i in range(1, NUM_WAREHOUSES + 1):
         "capacity": random.randint(5000, 50000)
     })
 
-# ------------------------------------------
-# Create DataFrame
-# ------------------------------------------
+
 
 df = pd.DataFrame(warehouses)
 

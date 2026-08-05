@@ -3,15 +3,11 @@ import random
 import pandas as pd
 from datetime import datetime, timedelta
 
-# ------------------------------------------
-# Configuration
-# ------------------------------------------
+
 
 OUTPUT_PATH = "datasets/raw/shipments.csv"
 
-# ------------------------------------------
-# Read Orders & Warehouses
-# ------------------------------------------
+
 
 orders = pd.read_csv("datasets/raw/orders.csv")
 warehouses = pd.read_csv("datasets/raw/warehouses.csv")
@@ -33,9 +29,6 @@ carrier_names = [
 
 shipments = []
 
-# ------------------------------------------
-# Generate Shipments
-# ------------------------------------------
 
 for i, order in enumerate(orders.itertuples(index=False), start=1):
 
@@ -62,9 +55,6 @@ for i, order in enumerate(orders.itertuples(index=False), start=1):
         "delivery_date": delivery_date.strftime("%Y-%m-%d")
     })
 
-# ------------------------------------------
-# Create DataFrame
-# ------------------------------------------
 
 df = pd.DataFrame(shipments)
 

@@ -3,25 +3,17 @@ import random
 import pandas as pd
 from datetime import datetime, timedelta
 
-# ------------------------------------------
-# Configuration
-# ------------------------------------------
+
 
 NUM_RECORDS = 2000
 OUTPUT_PATH = "datasets/raw/inventory.csv"
 
-# ------------------------------------------
-# Read Products & Warehouses
-# ------------------------------------------
 
 products = pd.read_csv("datasets/raw/products.csv")
 warehouses = pd.read_csv("datasets/raw/warehouses.csv")
 
 inventory = []
 
-# ------------------------------------------
-# Generate Inventory
-# ------------------------------------------
 
 for _ in range(NUM_RECORDS):
 
@@ -51,9 +43,9 @@ for _ in range(NUM_RECORDS):
         ).strftime("%Y-%m-%d")
     })
 
-# ------------------------------------------
+
+
 # Create DataFrame
-# ------------------------------------------
 
 df = pd.DataFrame(inventory)
 

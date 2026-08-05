@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,cost_price,selling_price
+P0001,Yakult Small,Dairy,Yakult,525,711.01
+P0002,Mother Dairy Milk 750ml,Dairy,Mother Dairy,228,318.95
+P0003,Yakult 200g,Dairy,Yakult,263,307.09
+P0004,Apsara Pencil 1L,Stationery,Apsara,40,47.98
+P0005,Coca Cola Medium,Beverages,Coca Cola,514,616.49
+P0006,Britannia Bread 200g,Bakery,Britannia,485,615.25
+P0007,French Fries 750ml,Frozen Foods,McCain,65,86.6
+P0008,Frozen Peas 100g,Frozen Foods,Safal,533,707.65
+P0009,Dove Soap 750ml,Personal Care,Dove,103,127.01
+P0010,Cello Pen 500ml,Stationery,Cello,199,275.52
+P0011,Mother Dairy Milk Small,Dairy,Mother Dairy,230,311.47
+P0012,Harpic 200g,Household,Harpic,274,342.53
+P0013,Camlin Eraser 2L,Stationery,Camlin,489,678.5
+P0014,Lay's Magic Masala 500ml,Snacks,Lay's,214,248.91
+P0015,Ariel Detergent 100g,Household,Ariel,370,435.76
+P0016,Amul Butter Small,Dairy,Amul,470,646.11
+P0017,Frozen Peas 2L,Frozen Foods,Safal,370,438.91
+P0018,Croissant 250ml,Bakery,Britannia,506,693.16
+P0019,Sprite 750ml,Beverages,Coca Cola,332,452.83
+P0020,Cello Pen 100g,Stationery,Cello,504,658.43
+P0021,Ice Cream 2L,Frozen Foods,Amul,208,244.16
+P0022,Cello Pen 200g,Stationery,Cello,369,456.03
+P0023,Ariel Detergent Large,Household,Ariel,523,673.26
+P0024,Britannia Bread 2L,Bakery,Britannia,416,574.38
+P0025,Amul Cheese Large,Dairy,Amul,347,464.04
+P0026,Mother Dairy Milk Small,Dairy,Mother Dairy,304,424.88
+P0027,Ariel Detergent 500ml,Household,Ariel,56,78.28
+P0028,Cello Pen Large,Stationery,Cello,146,169.73
+P0029,Apsara Pencil Large,Stationery,Apsara,295,380.84
+P0030,Camel Sketch Pen 2L,Stationery,Camel,102,129.09
+P0031,Muffin 100g,Bakery,Britannia,351,475.72
+P0032,Camel Sketch Pen 1L,Stationery,Camel,466,562.17
+P0033,Ariel Detergent 2L,Household,Ariel,242,316.3
+P0034,Lux Soap Large,Personal Care,Lux,80,98.84
+P0035,Kurkure Medium,Snacks,Kurkure,494,613.51
+P0036,Harpic Small,Household,Harpic,454,550.45
+P0037,Kurkure Large,Snacks,Kurkure,435,536.12
+P0038,Mother Dairy Milk 200g,Dairy,Mother Dairy,170,210.73
+P0039,Amul Milk 200g,Dairy,Amul,574,696.37
+P0040,Camel Sketch Pen Medium,Stationery,Camel,435,533.67
+P0041,Amul Cheese 250ml,Dairy,Amul,361,471.27
+P0042,Nivea Face Wash 2L,Personal Care,Nivea,214,276.02
+P0043,Colgate Toothpaste 2L,Personal Care,Colgate,582,759.88
+P0044,Britannia Bread 100g,Bakery,Britannia,384,509.99
+P0045,Clinic Plus Shampoo 750ml,Personal Care,Clinic Plus,63,74.54
+P0046,Amul Cheese 2L,Dairy,Amul,451,602.93
+P0047,Lay's Magic Masala 1L,Snacks,Lay's,381,519.72
+P0048,Frozen Corn Small,Frozen Foods,Safal,144,197.9
+P0049,Frozen Corn 2L,Frozen Foods,Safal,169,200.77
+P0050,Fanta 1L,Beverages,Coca Cola,352,407.27
+P0051,Britannia Cake 100g,Bakery,Britannia,170,229.62
+P0052,Yakult 2L,Dairy,Yakult,539,697.25
+P0053,Muffin 2L,Bakery,Britannia,166,208.63
+P0054,Harpic 100g,Household,Harpic,258,298.13
+P0055,Britannia Cake 2L,Bakery,Britannia,595,691.95
+P0056,Apsara Pencil 500ml,Stationery,Apsara,57,73.8
+P0057,Surf Excel 200g,Household,Surf Excel,361,500.43
+P0058,Lizol Cleaner 750ml,Household,Lizol,504,607.88
+P0059,Harpic 750ml,Household,Harpic,540,691.04
+P0060,Lay's Classic 500ml,Snacks,Lay's,190,220.07
+P0061,Cello Pen 750ml,Stationery,Cello,365,427.25
+P0062,Kurkure 750ml,Snacks,Kurkure,118,152.46
+P0063,Britannia Bread 1L,Bakery,Britannia,131,152.21
+P0064,Camel Sketch Pen Medium,Stationery,Camel,94,124.23
+P0065,Mountain Dew Large,Beverages,Pepsi,98,114.36
+P0066,Mother Dairy Milk 2L,Dairy,Mother Dairy,120,156.35
+P0067,Cello Pen Large,Stationery,Cello,471,610.98
+P0068,Coca Cola 2L,Beverages,Coca Cola,181,244.39
+P0069,Harvest Gold Bread 1L,Bakery,Harvest Gold,571,779.75
+P0070,Bingo Mad Angles 1L,Snacks,Bingo,382,468.0
+P0071,Camlin Eraser 100g,Stationery,Camlin,232,324.09
+P0072,Frozen Pizza 750ml,Frozen Foods,McCain,584,712.27
+P0073,Britannia Cake Small,Bakery,Britannia,96,114.95
+P0074,Ice Cream 750ml,Frozen Foods,Amul,265,318.47
+P0075,Amul Butter Large,Dairy,Amul,126,153.98
+P0076,Cello Pen 100g,Stationery,Cello,266,366.83
+P0077,Lay's Classic 1L,Snacks,Lay's,541,705.01
+P0078,Sprite 200g,Beverages,Coca Cola,103,134.38
+P0079,Harvest Gold Bread 500ml,Bakery,Harvest Gold,77,102.81
+P0080,Frozen Corn 500ml,Frozen Foods,Safal,20,24.4
+P0081,French Fries 200g,Frozen Foods,McCain,443,583.65
+P0082,Britannia Bread 1L,Bakery,Britannia,380,524.26
+P0083,Colgate Toothpaste 2L,Personal Care,Colgate,447,557.15
+P0084,Apsara Pencil 500ml,Stationery,Apsara,506,611.84
+P0085,Lizol Cleaner 200g,Household,Lizol,564,734.45
+P0086,Apsara Pencil 1L,Stationery,Apsara,576,781.27
+P0087,Muffin 500ml,Bakery,Britannia,40,52.58
+P0088,Croissant Small,Bakery,Britannia,376,512.39
+P0089,Mountain Dew Medium,Beverages,Pepsi,310,380.36
+P0090,Classmate Notebook 2L,Stationery,Classmate,305,414.11
+P0091,Clinic Plus Shampoo 2L,Personal Care,Clinic Plus,99,128.87
+P0092,Colgate Toothpaste 1L,Personal Care,Colgate,132,165.58
+P0093,Bingo Mad Angles Medium,Snacks,Bingo,77,102.56
+P0094,Pepsi 100g,Beverages,Pepsi,405,536.83
+P0095,Camel Sketch Pen 500ml,Stationery,Camel,99,121.43
+P0096,Sprite Small,Beverages,Coca Cola,193,223.64
+P0097,Sprite 1L,Beverages,Coca Cola,244,339.95
+P0098,Clinic Plus Shampoo 2L,Personal Care,Clinic Plus,430,515.46
+P0099,Britannia Bread 1L,Bakery,Britannia,539,703.35
+P0100,Apsara Pencil Large,Stationery,Apsara,387,451.54
+P0101,Lay's Magic Masala Small,Snacks,Lay's,426,536.98
+P0102,French Fries 750ml,Frozen Foods,McCain,429,580.08
+P0103,Camel Sketch Pen 250ml,Stationery,Camel,90,104.86
+P0104,Doritos Nacho 2L,Snacks,Doritos,47,61.8
+P0105,Harvest Gold Bread 250ml,Bakery,Harvest Gold,408,537.76
+P0106,Apsara Pencil 500ml,Stationery,Apsara,329,395.02
+P0107,Fanta 250ml,Beverages,Coca Cola,167,223.7
+P0108,Harpic 2L,Household,Harpic,368,467.1
+P0109,Lizol Cleaner 2L,Household,Lizol,42,51.49
+P0110,Yakult 250ml,Dairy,Yakult,66,91.98
+P0111,Fanta 750ml,Beverages,Coca Cola,486,638.29
+P0112,Harvest Gold Bread 250ml,Bakery,Harvest Gold,546,635.62
+P0113,Classmate Notebook 1L,Stationery,Classmate,197,229.52
+P0114,Dove Soap 100g,Personal Care,Dove,373,433.11
+P0115,Vim Dishwash Medium,Household,Vim,283,346.43
+P0116,Lux Soap 500ml,Personal Care,Lux,324,446.14
+P0117,Frozen Pizza 200g,Frozen Foods,McCain,338,422.57
+P0118,Classmate Notebook 750ml,Stationery,Classmate,441,545.32
+P0119,Colgate Toothpaste 750ml,Personal Care,Colgate,99,123.87
+P0120,Britannia Bread 500ml,Bakery,Britannia,95,117.95
+P0121,Lux Soap 100g,Personal Care,Lux,483,650.82
+P0122,Kurkure Large,Snacks,Kurkure,338,472.24
+P0123,Lay's Classic Medium,Snacks,Lay's,523,614.42
+P0124,Camel Sketch Pen 1L,Stationery,Camel,522,711.13
+P0125,Camlin Eraser 1L,Stationery,Camlin,159,184.54
+P0126,Amul Butter Large,Dairy,Amul,259,352.47
+P0127,Muffin 2L,Bakery,Britannia,595,830.32
+P0128,Surf Excel Large,Household,Surf Excel,293,366.55
+P0129,Yakult 200g,Dairy,Yakult,496,649.05
+P0130,Doritos Nacho 100g,Snacks,Doritos,178,247.63
+P0131,Mother Dairy Milk 2L,Dairy,Mother Dairy,324,381.9
+P0132,Dove Soap 2L,Personal Care,Dove,487,661.28
+P0133,Yakult Medium,Dairy,Yakult,487,659.87
+P0134,Classmate Notebook 100g,Stationery,Classmate,95,127.8
+P0135,Camlin Eraser 2L,Stationery,Camlin,361,444.2
+P0136,Lay's Classic 2L,Snacks,Lay's,456,596.21
+P0137,Coca Cola 250ml,Beverages,Coca Cola,59,70.49
+P0138,Lay's Magic Masala 1L,Snacks,Lay's,418,574.82
+P0139,Colgate Toothpaste 250ml,Personal Care,Colgate,210,261.47
+P0140,Coca Cola 500ml,Beverages,Coca Cola,532,719.31
+P0141,Amul Cheese 1L,Dairy,Amul,397,473.02
+P0142,Lay's Magic Masala 1L,Snacks,Lay's,392,465.39
+P0143,Croissant 100g,Bakery,Britannia,209,276.16
+P0144,Lizol Cleaner Large,Household,Lizol,525,642.6
+P0145,Clinic Plus Shampoo 100g,Personal Care,Clinic Plus,41,49.46
+P0146,Amul Cheese 200g,Dairy,Amul,435,595.2
+P0147,Britannia Bread 2L,Bakery,Britannia,191,250.9
+P0148,Classmate Notebook 1L,Stationery,Classmate,459,538.64
+P0149,Mountain Dew 200g,Beverages,Pepsi,85,102.98
+P0150,Frozen Peas Large,Frozen Foods,Safal,59,79.1
+P0151,Lay's Classic 1L,Snacks,Lay's,261,359.46
+P0152,Amul Milk 2L,Dairy,Amul,32,41.85
+P0153,Britannia Bread 500ml,Bakery,Britannia,72,97.2
+P0154,Apsara Pencil 500ml,Stationery,Apsara,583,687.94
+P0155,Kurkure 2L,Snacks,Kurkure,52,70.67
+P0156,Lay's Classic Large,Snacks,Lay's,526,716.77
+P0157,Lux Soap 250ml,Personal Care,Lux,437,596.45
+P0158,Harpic 2L,Household,Harpic,430,498.73
+P0159,Camlin Eraser 200g,Stationery,Camlin,278,340.74
+P0160,Lay's Classic Small,Snacks,Lay's,76,103.95
+P0161,Amul Butter 250ml,Dairy,Amul,591,792.47
+P0162,Harpic 750ml,Household,Harpic,356,472.72
+P0163,Pepsi Large,Beverages,Pepsi,442,561.9
+P0164,Camel Sketch Pen 1L,Stationery,Camel,259,347.36
+P0165,Ariel Detergent Small,Household,Ariel,168,221.44
+P0166,Amul Cheese 100g,Dairy,Amul,288,399.5
+P0167,Sprite 2L,Beverages,Coca Cola,94,121.8
+P0168,Apsara Pencil 200g,Stationery,Apsara,582,802.22
+P0169,Coca Cola 2L,Beverages,Coca Cola,594,685.11
+P0170,Harpic 100g,Household,Harpic,367,505.56
+P0171,Camlin Eraser 500ml,Stationery,Camlin,130,165.53
+P0172,Sprite 200g,Beverages,Coca Cola,268,355.99
+P0173,Apsara Pencil Medium,Stationery,Apsara,91,112.19
+P0174,Dove Soap Medium,Personal Care,Dove,229,288.11
+P0175,Doritos Nacho Small,Snacks,Doritos,463,636.16
+P0176,Yakult 2L,Dairy,Yakult,544,708.65
+P0177,Muffin 500ml,Bakery,Britannia,561,764.51
+P0178,Britannia Cake 200g,Bakery,Britannia,200,253.74
+P0179,Britannia Cake 750ml,Bakery,Britannia,568,761.14
+P0180,Harvest Gold Bread Small,Bakery,Harvest Gold,70,83.12
+P0181,Lay's Classic 500ml,Snacks,Lay's,367,510.35
+P0182,Britannia Cake 750ml,Bakery,Britannia,76,103.87
+P0183,Cello Pen Medium,Stationery,Cello,445,518.44
+P0184,Yakult 500ml,Dairy,Yakult,470,600.98
+P0185,Croissant 750ml,Bakery,Britannia,489,566.24
+P0186,Frozen Pizza Medium,Frozen Foods,McCain,529,703.11
+P0187,Bingo Mad Angles 2L,Snacks,Bingo,446,557.43
+P0188,Pepsi 250ml,Beverages,Pepsi,129,149.25
+P0189,Apsara Pencil 250ml,Stationery,Apsara,300,416.57
+P0190,Doritos Nacho 500ml,Snacks,Doritos,390,537.59
+P0191,Ice Cream Medium,Frozen Foods,Amul,479,583.75
+P0192,Vim Dishwash Large,Household,Vim,324,392.33
+P0193,Frozen Pizza 200g,Frozen Foods,McCain,248,327.81
+P0194,Classmate Notebook 1L,Stationery,Classmate,249,316.48
+P0195,Bingo Mad Angles 500ml,Snacks,Bingo,148,194.61
+P0196,Ariel Detergent 750ml,Household,Ariel,342,403.53
+P0197,Ariel Detergent 250ml,Household,Ariel,459,603.05
+P0198,Amul Milk 100g,Dairy,Amul,273,369.55
+P0199,Clinic Plus Shampoo 200g,Personal Care,Clinic Plus,458,550.92
+P0200,Britannia Bread Large,Bakery,Britannia,149,181.69

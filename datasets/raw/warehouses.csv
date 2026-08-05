@@ -1,0 +1,21 @@
+warehouse_id,warehouse_name,city,state,warehouse_type,capacity
+W001,Mumbai Warehouse 1,Mumbai,Maharashtra,Cold Storage,47060
+W002,Hyderabad Warehouse 2,Hyderabad,Telangana,Regional Distribution Center,20769
+W003,Lucknow Warehouse 3,Lucknow,Uttar Pradesh,Fulfillment Center,17845
+W004,Nagpur Warehouse 4,Nagpur,Maharashtra,Fulfillment Center,41888
+W005,Hyderabad Warehouse 5,Hyderabad,Telangana,Cold Storage,44042
+W006,Pune Warehouse 6,Pune,Maharashtra,Fulfillment Center,28401
+W007,Ahmedabad Warehouse 7,Ahmedabad,Gujarat,Regional Distribution Center,28078
+W008,Kolkata Warehouse 8,Kolkata,West Bengal,Fulfillment Center,26488
+W009,Ahmedabad Warehouse 9,Ahmedabad,Gujarat,Fulfillment Center,14902
+W010,Bhubaneswar Warehouse 10,Bhubaneswar,Odisha,Cold Storage,44858
+W011,Kolkata Warehouse 11,Kolkata,West Bengal,Regional Distribution Center,12038
+W012,Hyderabad Warehouse 12,Hyderabad,Telangana,Fulfillment Center,12191
+W013,Indore Warehouse 13,Indore,Madhya Pradesh,Fulfillment Center,48672
+W014,Ahmedabad Warehouse 14,Ahmedabad,Gujarat,Regional Distribution Center,11992
+W015,Bangalore Warehouse 15,Bangalore,Karnataka,Retail Distribution Hub,29397
+W016,Mumbai Warehouse 16,Mumbai,Maharashtra,Regional Distribution Center,11447
+W017,Ahmedabad Warehouse 17,Ahmedabad,Gujarat,Cold Storage,47950
+W018,Nagpur Warehouse 18,Nagpur,Maharashtra,Cold Storage,41534
+W019,Surat Warehouse 19,Surat,Gujarat,Retail Distribution Hub,28578
+W020,Bangalore Warehouse 20,Bangalore,Karnataka,Regional Distribution Center,9503
